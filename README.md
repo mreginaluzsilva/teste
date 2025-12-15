@@ -1,3 +1,3 @@
 # Projeto Git – Aprendizado
 
-Versão A do README.
+Versão B do README.
