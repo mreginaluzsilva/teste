@@ -1,9 +1,18 @@
 # Projeto Git – Aprendizado
 
-Versão B do README.
-Versão final do README.
+Projeto para aprender a usar o Git em dados
 
 ## Estrutura do projeto
 
-- data/: arquivos de dados
-- scripts/: scripts em Python
+- data/raw: dados brutos
+- data/processed: dados tratados
+- scripts/: scripts de ETL
+
+## Tecnologias
+
+- Python
+- Git/GitHub
+
+## Status
+
+- projeto de estudos de dados
