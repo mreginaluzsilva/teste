@@ -1,0 +1,17 @@
+# Dados
+data/raw/*
+data/processed/*
+
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
