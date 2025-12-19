@@ -7,6 +7,7 @@ Projeto para aprender a usar o Git em dados
 - data/raw: dados brutos
 - data/processed: dados tratados
 - scripts/: scripts de ETL
+- scripts/extract.py: Ler os dados brutos de alunos a partir de data/raw e devolver para o pipeline.
 
 ## Tecnologias
 
