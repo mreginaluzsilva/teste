@@ -1,4 +1,61 @@
 id,nome,idade,nota_simulado,frequencia,turma,status_aprovação
-1,Ana,17.0,8.5,,A,Dados Insuficientes
-2,Bruno,18.0,12.5,0.9,B,Nota Inválida
-5,Eduarda,18.0,9.0,-0.2,B,Frequência Inválida
+3,Benicio Borges,20.0,,0.95,A,Dados Insuficientes
+7,Valentina da Mata,17.0,8.7,-0.5,A,Frequência Inválida
+9,Pietra Costa,17.0,3.4,-0.5,C,Frequência Inválida
+10,Vitor da Paz,18.0,,0.74,C,Dados Insuficientes
+17,Vicente Ramos,20.0,7.8,-0.5,C,Frequência Inválida
+21,Asafe Lima,17.0,5.7,-0.5,B,Frequência Inválida
+30,Isadora Farias,16.0,,0.51,C,Dados Insuficientes
+51,Sr. Vicente Azevedo,19.0,12.0,0.54,C,Nota Inválida
+56,Dr. Ravy Machado,20.0,,0.64,C,Dados Insuficientes
+63,Maria Alice Barros,20.0,,0.92,A,Dados Insuficientes
+118,Ana Beatriz Brito,18.0,1.4,-0.5,C,Frequência Inválida
+125,Dante da Cruz,19.0,1.9,-0.5,A,Frequência Inválida
+146,Juan da Rosa,20.0,4.7,-0.5,A,Frequência Inválida
+161,Ian Costela,17.0,9.5,-0.5,C,Frequência Inválida
+171,Benício da Rocha,18.0,2.4,-0.5,B,Frequência Inválida
+173,Théo Vargas,19.0,,0.92,A,Dados Insuficientes
+175,Thomas Marques,17.0,14.0,0.5,C,Nota Inválida
+178,José Pedro Sá,19.0,,0.85,B,Dados Insuficientes
+190,Rhavi Souza,19.0,2.0,-0.5,B,Frequência Inválida
+226,Vitória Sampaio,16.0,15.0,0.69,C,Nota Inválida
+236,Melissa Viana,20.0,7.7,-0.5,C,Frequência Inválida
+239,Sr. Valentim Ramos,17.0,,0.68,A,Dados Insuficientes
+267,Sara Rodrigues,20.0,4.0,-0.5,B,Frequência Inválida
+302,Lorenzo Aparecida,18.0,13.0,0.57,B,Nota Inválida
+415,Benjamin da Luz,20.0,7.1,-0.5,C,Frequência Inválida
+424,Daniel Costela,18.0,1.0,-0.5,B,Frequência Inválida
+428,Kevin Alves,16.0,,0.82,B,Dados Insuficientes
+453,Olívia Azevedo,16.0,,0.66,C,Dados Insuficientes
+473,Brenda Nunes,18.0,2.4,-0.5,C,Frequência Inválida
+483,Davi Lucas Pires,20.0,15.0,0.98,C,Nota Inválida
+490,Sra. Ayla Marques,20.0,7.6,-0.5,C,Frequência Inválida
+495,Dr. Daniel Cardoso,17.0,15.0,0.86,A,Nota Inválida
+576,Beatriz Moreira,16.0,,0.67,C,Dados Insuficientes
+588,Davi Lucas Fogaça,19.0,13.0,0.74,C,Nota Inválida
+608,Bruna Souza,17.0,0.3,-0.5,A,Frequência Inválida
+636,Henry Moreira,20.0,,0.74,B,Dados Insuficientes
+637,Lorena Marques,17.0,4.1,-0.5,C,Frequência Inválida
+673,Dr. Arthur Miguel Cunha,16.0,14.0,0.72,A,Nota Inválida
+675,Kevin Martins,19.0,4.7,-0.5,A,Frequência Inválida
+680,Srta. Valentina Castro,20.0,,0.57,A,Dados Insuficientes
+686,Heloisa da Conceição,17.0,,0.96,A,Dados Insuficientes
+698,Lunna Barros,17.0,8.8,-0.5,C,Frequência Inválida
+707,Apollo Carvalho,18.0,12.0,0.59,B,Nota Inválida
+714,Henry Gabriel Fonseca,17.0,8.7,-0.5,A,Frequência Inválida
+727,Evelyn Araújo,16.0,14.0,0.66,B,Nota Inválida
+761,Lívia Montenegro,20.0,8.0,-0.5,B,Frequência Inválida
+773,Luana Nascimento,18.0,12.0,0.68,A,Nota Inválida
+781,Mathias Lima,20.0,,0.95,B,Dados Insuficientes
+782,Dra. Isabelly Aragão,20.0,11.0,0.54,B,Nota Inválida
+797,Samuel Vieira,18.0,4.4,-0.5,B,Frequência Inválida
+853,Julia Rocha,18.0,,0.51,C,Dados Insuficientes
+855,Ana Lívia Dias,20.0,15.0,0.83,C,Nota Inválida
+864,Luara Cassiano,20.0,,0.7,B,Dados Insuficientes
+917,Mirella Montenegro,16.0,,0.68,A,Dados Insuficientes
+926,Pedro Lucas Campos,16.0,15.0,0.94,C,Nota Inválida
+927,Davi Luiz Siqueira,18.0,,0.95,A,Dados Insuficientes
+928,Sarah Moreira,20.0,14.0,0.53,C,Nota Inválida
+934,Sr. Samuel Andrade,18.0,13.0,0.82,A,Nota Inválida
+949,Sra. Amanda Rocha,20.0,3.2,-0.5,C,Frequência Inválida
+971,Eloah Vieira,16.0,15.0,0.8,C,Nota Inválida
