@@ -1,4 +1,5 @@
 import pandas as pd
-OUTPUT_PATH = "data/processed/alunos_tratados.csv"
-def load_alunos(df):
-    df.to_csv(OUTPUT_PATH, index=False)
+
+def load_csv(df, nome_arquivo):
+    caminho_completo = f"data/processed/{nome_arquivo}"
+    df.to_csv(caminho_completo, index=False)

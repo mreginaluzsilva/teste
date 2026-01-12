@@ -1,6 +1,4 @@
 id,nome,idade,nota_simulado,frequencia,turma,status_aprovação
-1,Ana,17.0,8.5,,A,Dados Insuficientes
-2,Bruno,18.0,12.5,0.9,B,Nota Inválida
 3,Camila,17.0,7.2,0.95,A,Aprovado
 4,Daniel,-1.0,5.5,0.6,C,Reprovado
-5,Eduarda,18.0,9.0,-0.2,B,Frequência Inválida
+6,Fernando,19.0,4.0,0.5,C,Reprovado
