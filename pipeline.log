@@ -1,0 +1,12 @@
+2026-01-16 16:06:49 - INFO - Iniciando o pipeline ETL de alunos...
+2026-01-16 16:06:49 - INFO - Extração concluída. 1000 linhas lidas.
+2026-01-16 16:06:49 - INFO - Transformação concluída.
+2026-01-16 16:06:49 - INFO - Arquivo de tratados salvo: 1000 registros.
+2026-01-16 16:06:49 - INFO - Relatório de erros salvo 1000 registros.
+2026-01-16 16:06:49 - INFO - Pipeline finalizado com sucesso.
+2026-01-16 16:09:06 - INFO - Iniciando o pipeline ETL de alunos...
+2026-01-16 16:09:06 - INFO - Extração concluída. 1000 linhas lidas.
+2026-01-16 16:09:06 - INFO - Transformação concluída.
+2026-01-16 16:09:06 - INFO - Arquivo de tratados salvo: 940 registros.
+2026-01-16 16:09:06 - INFO - Relatório de erros salvo 60 registros.
+2026-01-16 16:09:06 - INFO - Pipeline finalizado com sucesso.
