@@ -1,5 +1,6 @@
 # Dados
 data/raw/*
+*.db
 
 # Python
 __pycache__/
