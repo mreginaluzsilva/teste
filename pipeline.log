@@ -10,3 +10,9 @@
 2026-01-16 16:09:06 - INFO - Arquivo de tratados salvo: 940 registros.
 2026-01-16 16:09:06 - INFO - Relatório de erros salvo 60 registros.
 2026-01-16 16:09:06 - INFO - Pipeline finalizado com sucesso.
+2026-01-16 16:39:42 - INFO - Iniciando o pipeline ETL de alunos...
+2026-01-16 16:39:42 - INFO - Extração concluída. 1000 linhas lidas.
+2026-01-16 16:39:42 - INFO - Transformação concluída.
+2026-01-16 16:39:42 - INFO - Arquivo de tratados salvo no Banco SQL: 940 registros.
+2026-01-16 16:39:42 - INFO - Relatório de erros salvo 60 registros.
+2026-01-16 16:39:42 - INFO - Pipeline finalizado com sucesso.

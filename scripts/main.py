@@ -1,7 +1,7 @@
 import logging
 from extract import extract_alunos
 from transform import transform_alunos
-from load import load_csv
+from load import load_csv, load_to_db
 
 logging.basicConfig(
     filename= 'pipeline.log', ##onde escrever
@@ -25,8 +25,8 @@ def main():
         df_tratados = df[df['status_aprovação'].isin(lista_validos)]
         df_erros = df[~df['status_aprovação'].isin(lista_validos)]
         
-        load_csv(df_tratados, 'alunos_tratados.csv')
-        logging.info(f"Arquivo de tratados salvo: {len(df_tratados)} registros.")
+        load_to_db(df_tratados, 'alunos_tratados') ##alunos tratados vão direto para Banco SQL
+        logging.info(f"Arquivo de tratados salvo no Banco SQL: {len(df_tratados)} registros.")
 
         load_csv(df_erros, 'relatorio_erros.csv')
         logging.info(f"Relatório de erros salvo {len(df_erros)} registros.")
